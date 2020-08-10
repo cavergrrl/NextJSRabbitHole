@@ -1,0 +1,82 @@
+{
+  "global": {
+    "title-header": "Pacific Life Online Health History",
+    "icon-tooltip": {
+      "help": "Help",
+      "message": "Message",
+      "logout": "Logout"
+    },
+    "button-text": {
+      "cancel": "Cancel",
+      "ok": "OK ",
+      "save": "Save Changes",
+      "next-question": "Next Question",
+      "back": "Back",
+      "skip": "Skip"
+    },
+    "customer-service": {
+      "phone-number": "(877) 323-4234"
+    },
+    "contact-info": {
+      "name": "Name",
+      "address": "Address",
+      "phone-number": "Number",
+      "email": "Email",
+      "company": "Company Name",
+      "ssn": "SSN",
+      "dob": "Date of Birth"
+    },
+    "progress-bar": {
+      "progress": "Progress:"
+    }
+  },
+  "header": {
+    "greeting": "Hello, {{user}}",
+    "all-changes-saved": "All Changes Saved",
+    "save-logout": "Save & Logout"
+  },
+  "footer": {
+    "message": "This is your footer"
+  },
+  "landing": {
+    "opening": {
+      "greeting": "Welcome to your health history questionnaire!",
+      "statement": "Before you begin, please review the information below to ensure you’re prepared to answer a series of questions related to your personal medical history."
+    },
+    "personal-info": {
+      "section-title": "Your Personal Info",
+      "edit-link": "Edit",
+      "pl-product-name": "Product Name"
+    },
+    "fp-info": {
+      "section-title": "Your Financial Professional"
+    },
+    "needs": "What You'll Need",
+    "medical-contacts": "Contact information for any doctors, hospitals or clinics you’ve visited within the last 10 years.",
+    "medication": "Names and dosages of current prescription medications.",
+    "expects": "What To Expect",
+    "duration": "20-30 minutes",
+    "duration-body": "This questionnaire usually takes about 25 minutes, but it can run shorter or longer, depending on your specific history.",
+    "confidential": "Confidential",
+    "confidential-body": "Your responses are confidential and will only be used to evaluate your application for life insurance with Pacific Life.",
+    "auto-save": "Auto Save Your Progress",
+    "auto-save-body": "Don't worry about losing your progress. We auto save it for you.",
+    "help": "Need Help?",
+    "chatbot": "Chatbot Support",
+    "chatbot-body": "You can also use our chatbot for questions related to your interview or your application status.",
+    "customer-service": "Customer Service",
+    "customer-service-body": "If you need help at any point during your questionnaire, we're available from 9AM - 5PM PST at ",
+    "additional-assistance-body": "If you want to continue your questionnaire over the phone, you have the option to request a live telephone interview by calling customer support at ",
+    "learn-more": "Learn More",
+    "legal-understanding": "I understand that the information I provide will be used to underwrite my life insurance application and will be completed to the best of my knowledge and belief.",
+    "start-button-text": "Begin Interview"
+  },
+  "interview": {
+    "progress-panel": {
+      "footer": {
+        "save": "Save & Logout",
+        "question-contact": "Have a question? Call: "
+      }
+    }
+  }
+}
